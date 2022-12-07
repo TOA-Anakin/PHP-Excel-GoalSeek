@@ -60,6 +60,12 @@ echo "Difference = " . ($actual_result - $expected_result);
 $ phpunit
 ```
 
+## PHP Local Server
+
+```
+php -S localhost:9999 -t www
+```
+
 ## Contributing
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
